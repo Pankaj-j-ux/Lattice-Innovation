@@ -25,6 +25,8 @@ Postman collection link - <https://blue-satellite-431576.postman.co/workspace/Ne
 
 Postman Workspace ID - 1d2ba24c-aa34-45a0-b932-e29a64c0119f	
 
+Database Used- MySQL
+
 Database Data-
 
 	1.Valid Hospital ID As of Now -  1, 5, 6, 7 (4 Hospitals are there in the Database as mentioned in the Database).
