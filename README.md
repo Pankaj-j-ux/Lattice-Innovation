@@ -26,8 +26,10 @@ API ENDPOINT-
 
 Postman collection link - <https://www.postman.com/blue-satellite-431576/workspace/1d2ba24c-aa34-45a0-b932-e29a64c0119f/collection/12559784-99be90b1-45ac-4dfc-88b1-775fdd4a1ab8?action=share&creator=12559784>
 
-
 Postman Workspace ID - 1d2ba24c-aa34-45a0-b932-e29a64c0119f	
+
+#### NOTE* : Requests may sometime take considerable time because the database and backend is hosted on different server and under free Subscription with low resources. 
+
 ***
 
 ### Database
