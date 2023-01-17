@@ -1,5 +1,7 @@
 # Lattice-Innovation- NodeJS Selection Test
 
+### API 
+
 API ENDPOINT- 
 	<https://lattice-innovation.onrender.com/>
 
@@ -11,20 +13,24 @@ API ENDPOINT-
 	GET: 
 	<https://lattice-innovation.onrender.com/api/v1/gethospitaldetail/>
 	
-
-Dependencies Used- 
+***
+### Dependencies Used- 
 
 	1.bcryptjs - for encoding password to save in the database.
 	2.cloudinary - for uploading patient Image.
 	3.cors - for satisfying Cross origin Policy.
 	4.morgan - for proper logging and monitoring. 
 	
+***
+### Postman Access
 
 Postman collection link - <https://blue-satellite-431576.postman.co/workspace/New-Team-Workspace~1d2ba24c-aa34-45a0-b932-e29a64c0119f/collection/12559784-99be90b1-45ac-4dfc-88b1-775fdd4a1ab8?action=share&creator=12559784>
 
 
 Postman Workspace ID - 1d2ba24c-aa34-45a0-b932-e29a64c0119f	
+***
 
+### Database
 Database Used- MySQL
 
 Database Data-
