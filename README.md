@@ -24,7 +24,7 @@ API ENDPOINT-
 ***
 ### Postman Access
 
-Postman collection link - <https://blue-satellite-431576.postman.co/workspace/New-Team-Workspace~1d2ba24c-aa34-45a0-b932-e29a64c0119f/collection/12559784-99be90b1-45ac-4dfc-88b1-775fdd4a1ab8?action=share&creator=12559784>
+Postman collection link - <https://www.postman.com/blue-satellite-431576/workspace/1d2ba24c-aa34-45a0-b932-e29a64c0119f/collection/12559784-99be90b1-45ac-4dfc-88b1-775fdd4a1ab8?action=share&creator=12559784>
 
 
 Postman Workspace ID - 1d2ba24c-aa34-45a0-b932-e29a64c0119f	
